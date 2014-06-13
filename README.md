@@ -1,7 +1,9 @@
-FacebookConnectPlugin.js Angular Wrapper
+FacebookConnectPlugin.js AngularJS Wrapper
 =====================
 
 An AngularJS wrapper for the official PhoneGap/Cordova Facebook plugin, FacebookConnectPlugin.js.
+
+https://github.com/phonegap/phonegap-facebook-plugin
 
 Based on the awesome OpenFB micro-framework by Christophe Coenraets:
 
